@@ -72,6 +72,9 @@
       <li>
           <router-link to="/divCssJQuery4_7_2"><h3>第4章: 4.7.2 本章小结(空白边叠加在网页中的应用)</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery5_2_1"><h3>第5章: 5.2.1 设置背景颜色</h3></router-link>
+      </li>
   </div>
 </template>
 

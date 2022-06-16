@@ -287,6 +287,14 @@ const routes = [
       title: '空白边叠加在网页中的应用'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery4/DivCssJQuery4_7_2.vue')
+  },
+  {
+    path: '/divCssJQuery5_2_1',
+    name: 'divCssJQuery5_2_1',
+    meta: {
+      title: '设置背景颜色'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_2_1.vue')
   }
 ]
 
