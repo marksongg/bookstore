@@ -1,0 +1,109 @@
+<template>
+  <div class="menus">
+      <li>
+          <router-link to="/divCssJQuery1"><h3>第1章: 网页和网站的基础知识</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery2_4_3"><h3>第2章: 2.4.3 网页网站基础知识</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery2_6_1"><h3>第2章: 2.6.1 video标签</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery2_6_2"><h3>第2章: 2.6.2 audio标签</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery2_8_2"><h3>第2章: 2.8.2 canvas标签</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_1"><h3>第3章: 3.3.1 css选择器(*通配选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_3"><h3>第3章: 3.3.3 css选择器(class类选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_4"><h3>第3章: 3.3.4 css选择器(ID选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_5"><h3>第3章: 3.3.5 css选择器(群选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_6"><h3>第3章: 3.3.6 css选择器(派生选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_3_7"><h3>第3章: 3.3.7 css选择器(伪类选择器)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_5_3"><h3>第3章: 3.5.3 嵌入样式表</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_6_2"><h3>第3章: 3.6.2 继承性</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery3_9_2"><h3>第3章: 总结(在网页中实现绘图效果)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_1_3"><h3>第4章: Div的嵌套和固定格式</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_2_3"><h3>第4章: 可视化盒模型</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_2_4"><h3>第4章: border(边框)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_2_5"><h3>第4章: 调整网页LOGO位置(margin)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_3_1"><h3>第4章: 居中布局设计</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_3_2"><h3>第4章: 居中布局设计</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_3_3"><h3>第4章: 自适应高度</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_4_2"><h3>第4章: 相对位置(position: relative)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_4_4"><h3>第4章: 固定定位(position: fixed)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery4_7_2"><h3>第4章: 本章小结(空白边叠加在网页中的应用)</h3></router-link>
+      </li>
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style scoped>
+  .menus {
+      margin: 60px 1px auto 40px; /**这里只有设置了这个参数值后，画面布局才能正常 */
+      background-color: #363432;
+      background-image: url('@/assets/images4/44201.png');
+      background-repeat: repeat;
+  }
+
+  .menus a{
+    font-family: 微软雅黑;
+      text-decoration: none;
+      display: block;
+      border: solid 0px #fff;
+      color: #fff;
+      /* background: blue; */
+  }
+
+  li {
+      /* margin-left: 460px; */
+      list-style-type: none;
+      float: center;
+      text-align: left;
+      position: relative;
+      left:460px;
+  }
+</style>
