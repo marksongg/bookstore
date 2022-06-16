@@ -40,37 +40,37 @@
           <router-link to="/divCssJQuery3_6_2"><h3>第3章: 3.6.2 继承性</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery3_9_2"><h3>第3章: 总结(在网页中实现绘图效果)</h3></router-link>
+          <router-link to="/divCssJQuery3_9_2"><h3>第3章: 3.9.2 总结(在网页中实现绘图效果)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_1_3"><h3>第4章: Div的嵌套和固定格式</h3></router-link>
+          <router-link to="/divCssJQuery4_1_3"><h3>第4章: 4.1.3 Div的嵌套和固定格式</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_2_3"><h3>第4章: 可视化盒模型</h3></router-link>
+          <router-link to="/divCssJQuery4_2_3"><h3>第4章: 4.2.3 可视化盒模型</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_2_4"><h3>第4章: border(边框)</h3></router-link>
+          <router-link to="/divCssJQuery4_2_4"><h3>第4章: 4.2.4 border(边框)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_2_5"><h3>第4章: 调整网页LOGO位置(margin)</h3></router-link>
+          <router-link to="/divCssJQuery4_2_5"><h3>第4章: 4.2.5 调整网页LOGO位置(margin)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_3_1"><h3>第4章: 居中布局设计</h3></router-link>
+          <router-link to="/divCssJQuery4_3_1"><h3>第4章: 4.3.1 居中布局设计</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_3_2"><h3>第4章: 居中布局设计</h3></router-link>
+          <router-link to="/divCssJQuery4_3_2"><h3>第4章: 4.3.2 居中布局设计</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_3_3"><h3>第4章: 自适应高度</h3></router-link>
+          <router-link to="/divCssJQuery4_3_3"><h3>第4章: 4.3.3 自适应高度</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_4_2"><h3>第4章: 相对位置(position: relative)</h3></router-link>
+          <router-link to="/divCssJQuery4_4_2"><h3>第4章: 4.4.2 相对位置(position: relative)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_4_4"><h3>第4章: 固定定位(position: fixed)</h3></router-link>
+          <router-link to="/divCssJQuery4_4_4"><h3>第4章: 4.4.4 固定定位(position: fixed)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery4_7_2"><h3>第4章: 本章小结(空白边叠加在网页中的应用)</h3></router-link>
+          <router-link to="/divCssJQuery4_7_2"><h3>第4章: 4.7.2 本章小结(空白边叠加在网页中的应用)</h3></router-link>
       </li>
   </div>
 </template>
