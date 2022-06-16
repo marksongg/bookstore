@@ -39,16 +39,17 @@ export default {
     width: 100%;
     height: 38px;
     padding-top: 10px;
+    background-color: #000000;
   }
 
   #center {
     width: 100%;
     height: 200px;
+    background-color: #ff7700;
   }
 
   #center img {
     margin-top: 100px;
-    margin-left: 50px;
     border: solid 3px #000000;
   }
 
