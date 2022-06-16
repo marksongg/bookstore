@@ -295,6 +295,30 @@ const routes = [
       title: '设置背景颜色'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_2_1.vue')
+  },
+  {
+    path: '/divCssJQuery5_3_1',
+    name: 'divCssJQuery5_3_1',
+    meta: {
+      title: '设置背景图像'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_3_1.vue')
+  },
+  {
+    path: '/divCssJQuery5_3_2',
+    name: 'divCssJQuery5_3_2',
+    meta: {
+      title: '背景图像重复方式'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_3_2.vue')
+  },
+  {
+    path: '/divCssJQuery5_3_4',
+    name: 'divCssJQuery5_3_4',
+    meta: {
+      title: '背景图像固定'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_3_4.vue')
   }
 ]
 
