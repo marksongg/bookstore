@@ -4,7 +4,7 @@
         <!-- 自动播放 -->
         <!-- <audio controls autoplay="true"> -->
         <audio controls>
-          <source src="../../../assets/images2/music.wav">
+          <!-- <source src="../../../assets/images2/music.wav"> -->
         </audio>
       </div>
   </div>

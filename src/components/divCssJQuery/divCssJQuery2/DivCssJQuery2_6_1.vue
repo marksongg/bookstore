@@ -3,7 +3,7 @@
     <div class="box">
         <div class="movie">
           <video controls width="484" height="273" autoplay="true">
-            <source type="video/mp4" src="@/assets/images2/movie.mp4">
+            <!-- <source type="video/mp4" src="@/assets/images2/movie.mp4"> -->
           </video>
         </div>
     </div>
