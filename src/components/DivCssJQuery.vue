@@ -99,6 +99,18 @@
       <li>
           <router-link to="/divCssJQuery5_7_2"><h3>第5章: 5.7.2 总结（网页图片垂直对齐）</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery6_2_3"><h3>第6章: 6.2.3 为网页中的文字设置式样</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery6_2_7"><h3>第6章: 6.2.7 设置英文大小写修饰文字(text-transform/text-decoration)</h3></router-link>
+      </li>
+       <li>
+          <router-link to="/divCssJQuery6_3_4"><h3>第6章: 6.3.4 设置文字不同式样(letter-spacing/line-height/text-indent/)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery6_6_2"><h3>第6章: 6.6.2 总结（文字水平居中对齐）</h3></router-link>
+      </li>
   </div>
 </template>
 

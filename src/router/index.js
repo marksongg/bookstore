@@ -359,6 +359,38 @@ const routes = [
       title: '网页图片垂直对齐'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_7_2.vue')
+  },
+  {
+    path: '/divCssJQuery6_2_3',
+    name: 'divCssJQuery6_2_3',
+    meta: {
+      title: '为网页中的文字设置样式'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery6/DivCssJQuery6_2_3.vue')
+  },
+  {
+    path: '/divCssJQuery6_2_7',
+    name: 'divCssJQuery6_2_7',
+    meta: {
+      title: '设置英文大小写并修饰'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery6/DivCssJQuery6_2_7.vue')
+  },
+  {
+    path: '/divCssJQuery6_3_4',
+    name: 'divCssJQuery6_3_4',
+    meta: {
+      title: '设置文字不同式样'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery6/DivCssJQuery6_3_4.vue')
+  },
+  {
+    path: '/divCssJQuery6_6_2',
+    name: 'divCssJQuery6_6_2',
+    meta: {
+      title: '文字小平居中对齐'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery6/DivCssJQuery6_6_2.vue')
   }
 ]
 
