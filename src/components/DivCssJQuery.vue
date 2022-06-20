@@ -84,6 +84,21 @@
       <li>
           <router-link to="/divCssJQuery5_3_4"><h3>第5章: 5.3.4 背景图像固定(background-attachment:fixed)</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery5_4_1"><h3>第5章: 5.4.1 图像边框</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery5_4_2"><h3>第5章: 5.4.2 图像缩放</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery5_4_3"><h3>第5章: 5.4.3 图像水平对齐（img + cssのtext-align）</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery5_5_1"><h3>第5章: 5.5.1 网页中的图文混排</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery5_7_2"><h3>第5章: 5.7.2 总结（网页图片垂直对齐）</h3></router-link>
+      </li>
   </div>
 </template>
 

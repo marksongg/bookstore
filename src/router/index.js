@@ -319,6 +319,46 @@ const routes = [
       title: '背景图像固定'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_3_4.vue')
+  },
+  {
+    path: '/divCssJQuery5_4_1',
+    name: 'divCssJQuery5_4_1',
+    meta: {
+      title: '图像边框'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_4_1.vue')
+  },
+  {
+    path: '/divCssJQuery5_4_2',
+    name: 'divCssJQuery5_4_2',
+    meta: {
+      title: '图像缩放'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_4_2.vue')
+  },
+  {
+    path: '/divCssJQuery5_4_3',
+    name: 'divCssJQuery5_4_3',
+    meta: {
+      title: '图像水平对齐'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_4_3.vue')
+  },
+  {
+    path: '/divCssJQuery5_5_1',
+    name: 'divCssJQuery5_5_1',
+    meta: {
+      title: '图像水平对齐'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_5_1.vue')
+  },
+  {
+    path: '/divCssJQuery5_7_2',
+    name: 'divCssJQuery5_7_2',
+    meta: {
+      title: '网页图片垂直对齐'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery5/DivCssJQuery5_7_2.vue')
   }
 ]
 
