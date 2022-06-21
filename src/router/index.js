@@ -391,6 +391,22 @@ const routes = [
       title: '文字小平居中对齐'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery6/DivCssJQuery6_6_2.vue')
+  },
+  {
+    path: '/divCssJQuery7_2_3',
+    name: 'divCssJQuery7_2_3',
+    meta: {
+      title: '制作网站列表'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_2_3.vue')
+  },
+  {
+    path: '/divCssJQuery7_2_4',
+    name: 'divCssJQuery7_2_4',
+    meta: {
+      title: '定义列表'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_2_4.vue')
   }
 ]
 

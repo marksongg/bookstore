@@ -111,6 +111,12 @@
       <li>
           <router-link to="/divCssJQuery6_6_2"><h3>第6章: 6.6.2 总结（文字水平居中对齐）</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery7_2_3"><h3>第7章: 7.2.3 制作网站列表</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery7_2_4"><h3>第7章: 7.2.4 定义列表</h3></router-link>
+      </li>
   </div>
 </template>
 
