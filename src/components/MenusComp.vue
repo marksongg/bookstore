@@ -8,16 +8,16 @@
               <router-link to="/newBooks">新书</router-link>
           </li>
           <li>
-              <a href="javascript:;">特价书</a>
+              <a href="javascript:;">特价书(TODO)</a>
           </li>
           <li>
-              <a href="javascript:;">教材</a>
+              <a href="javascript:;">教材(TODO)</a>
           </li>
           <!-- <li>
               <a href="javascript:;">视听教程</a>
           </li> -->
           <li>
-              <router-link to="/divCssJQuery">网页网站基础知识</router-link>
+              <router-link to="/divCssJQuery">网页网站基础知识(DIV+CSS)</router-link>
           </li>
       </ul>
   </div>

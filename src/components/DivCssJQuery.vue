@@ -117,6 +117,18 @@
       <li>
           <router-link to="/divCssJQuery7_2_4"><h3>第7章: 7.2.4 定义列表</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery7_3_1"><h3>第7章: 7.3.1 制作游戏网站导航</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery7_3_2"><h3>第7章: 7.3.2 制作购物网站导航</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery7_4_2"><h3>第7章: 7.4.2 CSS3内容(content)和不透明(opacity)属性的应用</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery7_6_2"><h3>第7章: 7.6.2 更新部分列表符号</h3></router-link>
+      </li>
   </div>
 </template>
 

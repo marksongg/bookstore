@@ -407,6 +407,38 @@ const routes = [
       title: '定义列表'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_2_4.vue')
+  },
+  {
+    path: '/divCssJQuery7_3_1',
+    name: 'divCssJQuery7_3_1',
+    meta: {
+      title: '游戏网站导航'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_3_1.vue')
+  },
+  {
+    path: '/divCssJQuery7_3_2',
+    name: 'divCssJQuery7_3_2',
+    meta: {
+      title: '购物网站导航'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_3_2.vue')
+  },
+  {
+    path: '/divCssJQuery7_4_2',
+    name: 'divCssJQuery7_4_2',
+    meta: {
+      title: '内容和透明度属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_4_2.vue')
+  },
+  {
+    path: '/divCssJQuery7_6_2',
+    name: 'divCssJQuery7_6_2',
+    meta: {
+      title: '更改部分项目列表符号'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_6_2.vue')
   }
 ]
 
