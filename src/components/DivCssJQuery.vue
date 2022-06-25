@@ -129,6 +129,12 @@
       <li>
           <router-link to="/divCssJQuery7_6_2"><h3>第7章: 7.6.2 更新部分列表符号</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery8_2_3"><h3>第8章: 8.2.3 设置表格边框及背景(table))</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery8_2_4"><h3>第8章: 8.2.4 设置斑马式表格(table))</h3></router-link>
+      </li>
   </div>
 </template>
 

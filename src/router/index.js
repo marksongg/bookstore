@@ -439,6 +439,22 @@ const routes = [
       title: '更改部分项目列表符号'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery7/DivCssJQuery7_6_2.vue')
+  },
+  {
+    path: '/divCssJQuery8_2_3',
+    name: 'divCssJQuery8_2_3',
+    meta: {
+      title: '设置表格边框及背景'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_2_3.vue')
+  },
+  {
+    path: '/divCssJQuery8_2_4',
+    name: 'divCssJQuery8_2_4',
+    meta: {
+      title: '设置斑马式表格'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_2_4.vue')
   }
 ]
 
