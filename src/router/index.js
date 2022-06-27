@@ -455,6 +455,38 @@ const routes = [
       title: '设置斑马式表格'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_2_4.vue')
+  },
+  {
+    path: '/divCssJQuery8_5_1',
+    name: 'divCssJQuery8_5_1',
+    meta: {
+      title: '制作网站登录页面'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_5_1.vue')
+  },
+  {
+    path: '/divCssJQuery8_5_2',
+    name: 'divCssJQuery8_5_2',
+    meta: {
+      title: '使用CSS样式控制列表与跳转菜单'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_5_2.vue')
+  },
+  {
+    path: '/divCssJQuery8_5_3',
+    name: 'divCssJQuery8_5_3',
+    meta: {
+      title: '使用CSS样式定义圆角文本字段'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_5_3.vue')
+  },
+  {
+    path: '/divCssJQuery8_6_1',
+    name: 'divCssJQuery8_6_1',
+    meta: {
+      title: '制作文字字段提示语效果'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_6_1.vue')
   }
 ]
 

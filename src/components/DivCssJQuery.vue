@@ -130,10 +130,22 @@
           <router-link to="/divCssJQuery7_6_2"><h3>第7章: 7.6.2 更新部分列表符号</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery8_2_3"><h3>第8章: 8.2.3 设置表格边框及背景(table))</h3></router-link>
+          <router-link to="/divCssJQuery8_2_3"><h3>第8章: 8.2.3 设置表格边框及背景(table)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery8_2_4"><h3>第8章: 8.2.4 设置斑马式表格(table))</h3></router-link>
+          <router-link to="/divCssJQuery8_2_4"><h3>第8章: 8.2.4 设置斑马式表格(table)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery8_5_1"><h3>第8章: 8.5.1 制作网站的登录页面(form)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery8_5_2"><h3>第8章: 8.5.2 使用CSS样式控制列表与跳转菜单(select)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery8_5_3"><h3>第8章: 8.5.3 使用CSS样式定义圆角文本字段</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery8_6_1"><h3>第8章: 8.6.1 制作文字字段提示语效果</h3></router-link>
       </li>
   </div>
 </template>
