@@ -1,12 +1,15 @@
 <template>
   <div id="body1">
+    <div id="message">
+      <label class="error">{{message}}</label>
+    </div>
     <div id="box">
       <form id="form1" name="form" method="post" action="javascript:;">
         <label>
-          <input type="text" name="uname" id="uname" placeholder="请输入用户名">
+          <input v-model.trim="uname" type="text" name="uname" id="uname" placeholder="请输入用户名">
         </label>
         <label>
-          <input type="text" name="upass" id="upass" placeholder="请输入密码">
+          <input v-model.trim="upass" type="text" name="upass" id="upass" placeholder="请输入密码">
         </label>
         <input type="checkbox" name="checkbox" id="checkbox"><span class="checkLabel" id="checkLabel">记住密码</span><label for="checkbox"></label>
         <input name="btn" type="button" id="btn" value="登    录">
@@ -19,9 +22,29 @@
 export default {
   data(){
     return {
+      message:'',
+      uname:'',
+      upass:'',
       count: 0
     }
   },
+  watch:{
+    uname(newVal){
+      if(newVal === ''){
+        this.message = '用户名不能为空！';
+      } else {
+        this.message = '';
+      }
+    },
+    upass(newVal){
+      if(newVal === ''){
+        this.message = '密码不能为空！';
+      } else {
+        this.message = '';
+      }
+    }
+  },
+  
   name:'DivCssJQuery8_6_1',
 }
 </script>
@@ -43,6 +66,12 @@ export default {
     background-image: url("@/assets/images8/86101.png");
     background-repeat: repeat-x;
     height: 800px;
+  }
+
+  #message {
+    position: absolute;
+    left: 750px;
+    top: 450px;
   }
 
   #box {
@@ -105,6 +134,12 @@ export default {
   #uname:focus, #upass:focus {
     background-color: yellow;
     border-color: #F30;
+  }
+
+  .error {
+    color: red;
+    font-weight: bold;
+    font-size: 1.1em;
   }
 
 
