@@ -487,6 +487,14 @@ const routes = [
       title: '制作文字字段提示语效果'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_6_1.vue')
+  },
+  {
+    path: '/divCssJQuery8_8_2',
+    name: 'divCssJQuery8_8_2',
+    meta: {
+      title: '总结 美化登录框'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_8_2.vue')
   }
 ]
 

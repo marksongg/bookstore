@@ -147,6 +147,9 @@
       <li>
           <router-link to="/divCssJQuery8_6_1"><h3>第8章: 8.6.1 制作文字字段提示语效果</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery8_8_2"><h3>第8章: 8.8.2 总结 美化登录框</h3></router-link>
+      </li>
   </div>
 </template>
 
