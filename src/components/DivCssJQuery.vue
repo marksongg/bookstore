@@ -150,6 +150,24 @@
       <li>
           <router-link to="/divCssJQuery8_8_2"><h3>第8章: 8.8.2 总结 美化登录框</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery9_2_4"><h3>第9章: 9.2.4 制作网页超链接</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery9_3_1"><h3>第9章: 9.3.1 制作按钮式超链接</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery9_3_2"><h3>第9章: 9.3.2 制作浮雕式超链接</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery9_5_1"><h3>第9章: 9.5.1 倾斜导航菜单</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery9_5_2"><h3>第9章: 9.5.2 动感超链接</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery9_7_2"><h3>第9章: 9.7.2 总结 控件鼠标箭头</h3></router-link>
+      </li>
   </div>
 </template>
 

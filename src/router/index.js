@@ -495,6 +495,54 @@ const routes = [
       title: '总结 美化登录框'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery8/DivCssJQuery8_8_2.vue')
+  },
+  {
+    path: '/divCssJQuery9_2_4',
+    name: 'divCssJQuery9_2_4',
+    meta: {
+      title: '制作网页文字超链接'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_2_4.vue')
+  },
+  {
+    path: '/divCssJQuery9_3_1',
+    name: 'divCssJQuery9_3_1',
+    meta: {
+      title: '制作网页文字超链接'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_3_1.vue')
+  },
+  {
+    path: '/divCssJQuery9_3_2',
+    name: 'divCssJQuery9_3_2',
+    meta: {
+      title: '制作浮雕式超链接'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_3_2.vue')
+  },
+  {
+    path: '/divCssJQuery9_5_1',
+    name: 'divCssJQuery9_5_1',
+    meta: {
+      title: '制作倾斜导航菜单'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_5_1.vue')
+  },
+  {
+    path: '/divCssJQuery9_5_2',
+    name: 'divCssJQuery9_5_3',
+    meta: {
+      title: '制作倾斜导航菜单'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_5_2.vue')
+  },
+  {
+    path: '/divCssJQuery9_7_2',
+    name: 'divCssJQuery9_7_3',
+    meta: {
+      title: '控件鼠标箭头'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_7_2.vue')
   }
 ]
 
