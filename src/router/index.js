@@ -543,6 +543,14 @@ const routes = [
       title: '控件鼠标箭头'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery9/DivCssJQuery9_7_2.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_1',
+    name: 'divCssJQuery10_1_1',
+    meta: {
+      title: '控件鼠标箭头'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_1.vue')
   }
 ]
 
