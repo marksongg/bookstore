@@ -548,9 +548,33 @@ const routes = [
     path: '/divCssJQuery10_1_1',
     name: 'divCssJQuery10_1_1',
     meta: {
-      title: '控件鼠标箭头'
+      title: 'grayscale滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_1.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_2',
+    name: 'divCssJQuery10_1_2',
+    meta: {
+      title: 'sepia滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_2.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_3',
+    name: 'divCssJQuery10_1_3',
+    meta: {
+      title: 'opacity滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_3.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_4',
+    name: 'divCssJQuery10_1_4',
+    meta: {
+      title: 'blur滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_4.vue')
   }
 ]
 
