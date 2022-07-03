@@ -36,7 +36,7 @@ export default {
 
   #body1 {
     margin: 60px 1px auto 40px; /**这里只有设置了这个参数值后，画面布局才能正常 */
-    font-family:宋刚;
+    font-family:宋体;
     font-size: 12px;
     line-height: 25px;
     color: #F6CC07;

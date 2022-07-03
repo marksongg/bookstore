@@ -575,6 +575,22 @@ const routes = [
       title: 'blur滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_4.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_5',
+    name: 'divCssJQuery10_1_5',
+    meta: {
+      title: 'saturate滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_5.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_6',
+    name: 'divCssJQuery10_1_6',
+    meta: {
+      title: 'hue-rotate滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_6.vue')
   }
 ]
 
