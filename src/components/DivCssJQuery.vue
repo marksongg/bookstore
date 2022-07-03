@@ -186,6 +186,12 @@
       <li>
           <router-link to="/divCssJQuery10_1_6"><h3>第10章: 10.1.6 hue-rotate滤镜</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery10_1_7"><h3>第10章: 10.1.7 invert滤镜</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery10_1_8"><h3>第10章: 10.1.8 drop-shadow滤镜</h3></router-link>
+      </li>
   </div>
 </template>
 

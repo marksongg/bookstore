@@ -591,6 +591,23 @@ const routes = [
       title: 'hue-rotate滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_6.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_7',
+    name: 'divCssJQuery10_1_7',
+    meta: {
+      title: 'invert滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_7.vue')
+  }
+  ,
+  {
+    path: '/divCssJQuery10_1_8',
+    name: 'divCssJQuery10_1_8',
+    meta: {
+      title: 'drop-shadow滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_8.vue')
   }
 ]
 
