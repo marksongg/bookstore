@@ -192,6 +192,12 @@
       <li>
           <router-link to="/divCssJQuery10_1_8"><h3>第10章: 10.1.8 drop-shadow滤镜</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery10_1_9"><h3>第10章: 10.1.9 brightness滤镜</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery10_1_10"><h3>第10章: 10.1.10 contrast滤镜</h3></router-link>
+      </li>
   </div>
 </template>
 

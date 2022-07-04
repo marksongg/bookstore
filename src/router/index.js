@@ -599,8 +599,7 @@ const routes = [
       title: 'invert滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_7.vue')
-  }
-  ,
+  },
   {
     path: '/divCssJQuery10_1_8',
     name: 'divCssJQuery10_1_8',
@@ -608,6 +607,22 @@ const routes = [
       title: 'drop-shadow滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_8.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_9',
+    name: 'divCssJQuery10_1_9',
+    meta: {
+      title: 'brightness滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_9.vue')
+  },
+  {
+    path: '/divCssJQuery10_1_10',
+    name: 'divCssJQuery10_1_10',
+    meta: {
+      title: 'contrast滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_10.vue')
   }
 ]
 
