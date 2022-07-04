@@ -628,9 +628,25 @@ const routes = [
     path: '/divCssJQuery11_1_1',
     name: 'divCssJQuery11_1_1',
     meta: {
-      title: 'contrast滤镜'
+      title: 'CSS3文字属性'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_1_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_2_1',
+    name: 'divCssJQuery11_2_1',
+    meta: {
+      title: 'CSS3图像背景属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_2_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_2_2',
+    name: 'divCssJQuery11_2_2',
+    meta: {
+      title: 'CSS3图像背景位置定位'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_2_2.vue')
   }
 ]
 
