@@ -623,6 +623,14 @@ const routes = [
       title: 'contrast滤镜'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery10/DivCssJQuery10_1_10.vue')
+  },
+  {
+    path: '/divCssJQuery11_1_1',
+    name: 'divCssJQuery11_1_1',
+    meta: {
+      title: 'contrast滤镜'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_1_1.vue')
   }
 ]
 

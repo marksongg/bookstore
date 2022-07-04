@@ -198,6 +198,9 @@
       <li>
           <router-link to="/divCssJQuery10_1_10"><h3>第10章: 10.1.10 contrast滤镜</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery11_1_1"><h3>第10章: 11.1.1 CSS3新增文字属性(text-shadow文字阴影/text-overflow省略号.../word-wrap文本换行</h3></router-link>
+      </li>
   </div>
 </template>
 
