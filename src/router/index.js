@@ -647,6 +647,22 @@ const routes = [
       title: 'CSS3图像背景位置定位'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_2_2.vue')
+  },
+  {
+    path: '/divCssJQuery11_2_3',
+    name: 'divCssJQuery11_2_3',
+    meta: {
+      title: 'CSS3背景图像裁剪区域'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_2_3.vue')
+  },
+  {
+    path: '/divCssJQuery11_3_1',
+    name: 'divCssJQuery11_3_1',
+    meta: {
+      title: 'CSS3图像边框'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_3_1.vue')
   }
 ]
 

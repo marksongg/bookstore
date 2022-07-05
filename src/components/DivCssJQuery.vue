@@ -207,7 +207,12 @@
       <li>
           <router-link to="/divCssJQuery11_2_2"><h3>第10章: 11.2.2 CSS3新增背景位置定位-从内容区域开始显示图像(background-origin:content)</h3></router-link>
       </li>
-      
+      <li>
+          <router-link to="/divCssJQuery11_2_3"><h3>第10章: 11.2.3 CSS3新增背景图像裁剪区域(background-clip)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_3_1"><h3>第10章: 11.3.1 CSS3新增边框属性(border-image)</h3></router-link>
+      </li>
   </div>
 </template>
 
@@ -227,11 +232,11 @@ export default {
 
   .menus a{
     font-family: 微软雅黑;
-      text-decoration: none;
-      display: block;
-      border: solid 0px #fff;
-      color: #fff;
-      /* background: blue; */
+    text-decoration: none;
+    display: block;
+    border: solid 0px #fff;
+    color: #fff;
+    /* background: blue; */
   }
 
   li {
@@ -240,6 +245,6 @@ export default {
       float: center;
       text-align: left;
       position: relative;
-      left:460px;
+      left:260px; /**定位开始位置 */
   }
 </style>
