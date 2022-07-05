@@ -21,7 +21,7 @@ export default {
       count: 0
     }
   },
-  name:'DivCssJQuery11_3_1',
+  name:'DivCssJQuery11_3_2',
 }
 </script>
 
@@ -92,6 +92,8 @@ export default {
 
   #pic img {
     margin: 5px;
+    border: 2px solid #33353C; /**给图片加上边框 */
+    -webkit-border-radius: 15px 0px 15px 0px; /**给图片框加上圆角 */
   }
   
 </style>

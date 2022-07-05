@@ -211,7 +211,13 @@
           <router-link to="/divCssJQuery11_2_3"><h3>第10章: 11.2.3 CSS3新增背景图像裁剪区域(background-clip)</h3></router-link>
       </li>
       <li>
-          <router-link to="/divCssJQuery11_3_1"><h3>第10章: 11.3.1 CSS3新增边框属性(border-image)</h3></router-link>
+          <router-link to="/divCssJQuery11_3_1"><h3>第10章: 11.3.1 CSS3新增边框属性-图像边框(border-image)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_3_2"><h3>第10章: 11.3.2 CSS3新增边框属性-圆角边框(border-radius)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_3_3"><h3>第10章: 11.3.3 CSS3新增边框属性-多重边框颜色(border-colors)</h3></router-link>
       </li>
   </div>
 </template>

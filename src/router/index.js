@@ -663,6 +663,22 @@ const routes = [
       title: 'CSS3图像边框'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_3_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_3_2',
+    name: 'divCssJQuery11_3_2',
+    meta: {
+      title: 'CSS3圆角边框'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_3_2.vue')
+  },
+  {
+    path: '/divCssJQuery11_3_3',
+    name: 'divCssJQuery11_3_3',
+    meta: {
+      title: 'CSS3多重边框颜色'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_3_3.vue')
   }
 ]
 

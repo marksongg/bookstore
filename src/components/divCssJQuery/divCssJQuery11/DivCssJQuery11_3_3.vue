@@ -7,8 +7,8 @@
         </div>
       </div>
       <div id="pic">
-        <img src="@/assets/images11/113103.jpg" width="470" height="400" alt=""/>
-        <img src="@/assets/images11/113104.jpg" width="470" height="400" alt=""/>
+        <img src="@/assets/images11/113103.jpg" width="470" height="400" class="img01" alt=""/>
+        <img src="@/assets/images11/113104.jpg" width="470" height="400" class="img01" alt=""/>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@ export default {
       count: 0
     }
   },
-  name:'DivCssJQuery11_3_1',
+  name:'DivCssJQuery11_3_3',
 }
 </script>
 
@@ -92,6 +92,20 @@ export default {
 
   #pic img {
     margin: 5px;
+  }
+
+  .img01 {
+    border: 5px solid #FFF;
+    /**IE */
+    border-top-color:#0099FF;
+    border-right-color:#00CC00;
+    border-bottom-color:#FF6600;
+    border-left-color:#FF99FF;
+    /**下面的属性只有在救援Firefox中使用 */
+    -moz-border-top-colors:#0FF #00CCFF #0099FF #0066FF #0033FF;
+    -moz-border-right-colors:#0F0 #00CC00 #009900 #006600 #003300;
+    -moz-border-bottom-colors:#FF0 #FFCC00 #FF9900 #FF6600 #FF3300;
+    -moz-border-left-colors:#FCF #FF99FF #FF66FF #FF33FF #FF00FF;
   }
   
 </style>
