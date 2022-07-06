@@ -96,7 +96,7 @@ export default {
 
   .img01 {
     border: 5px solid #FFF;
-    /**IE */
+    /**IE 中可以使用*/
     border-top-color:#0099FF;
     border-right-color:#00CC00;
     border-bottom-color:#FF6600;

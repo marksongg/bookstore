@@ -219,6 +219,21 @@
       <li>
           <router-link to="/divCssJQuery11_3_3"><h3>第10章: 11.3.3 CSS3新增边框属性-多重边框颜色(border-colors)</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery11_4_1"><h3>第10章: 11.4.1 CSS3新增多布局属性-列宽度(column-width)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_4_2"><h3>第10章: 11.4.2 CSS3新增多布局属性-新增多列设置属性(column-count)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_5_1"><h3>第10章: 11.5.1 CSS3新增有关用户界面的属性-(box-sizing)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_6_1"><h3>第10章: 11.6.1 CSS3新增有属性-(@media)</h3></router-link>
+      </li>
+      <li>
+          <router-link to="/divCssJQuery11_8_2"><h3>第10章: 11.8.2 总结 CSS3新增属性</h3></router-link>
+      </li>
   </div>
 </template>
 

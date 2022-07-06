@@ -679,6 +679,46 @@ const routes = [
       title: 'CSS3多重边框颜色'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_3_3.vue')
+  },
+  {
+    path: '/divCssJQuery11_4_1',
+    name: 'divCssJQuery11_4_1',
+    meta: {
+      title: 'CSS3新增的多列布局属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_4_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_4_2',
+    name: 'divCssJQuery11_4_2',
+    meta: {
+      title: 'CSS3新增的多列布局属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_4_2.vue')
+  },
+  {
+    path: '/divCssJQuery11_5_1',
+    name: 'divCssJQuery11_5_1',
+    meta: {
+      title: 'CSS3新增的多列布局属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_5_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_6_1',
+    name: 'divCssJQuery11_6_1',
+    meta: {
+      title: 'CSS3新增的多列布局属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_6_1.vue')
+  },
+  {
+    path: '/divCssJQuery11_8_2',
+    name: 'divCssJQuery11_8_2',
+    meta: {
+      title: 'CSS3新增的多列布局属性'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_8_2.vue')
   }
 ]
 
