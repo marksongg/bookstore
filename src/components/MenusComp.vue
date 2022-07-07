@@ -17,7 +17,7 @@
               <a href="javascript:;">视听教程</a>
           </li> -->
           <li>
-              <router-link to="/divCssJQuery">网页网站基础知识(DIV+CSS)</router-link>
+              <router-link to="/divCssJQuery">基础知识(DIV+CSS+jQuery)</router-link>
           </li>
       </ul>
   </div>

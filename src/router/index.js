@@ -719,6 +719,14 @@ const routes = [
       title: 'CSS3新增的多列布局属性'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery11/DivCssJQuery11_8_2.vue')
+  },
+  {
+    path: '/divCssJQuery12_2_5',
+    name: 'divCssJQuery12_2_5',
+    meta: {
+      title: 'jQuery事件'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery12/DivCssJQuery12_2_5.vue')
   }
 ]
 
