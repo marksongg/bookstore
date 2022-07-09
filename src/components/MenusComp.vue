@@ -13,9 +13,6 @@
           <li>
               <a href="javascript:;">教材(TODO)</a>
           </li>
-          <!-- <li>
-              <a href="javascript:;">视听教程</a>
-          </li> -->
           <li>
               <router-link to="/divCssJQuery">基础知识(DIV+CSS+jQuery)</router-link>
           </li>
