@@ -64,6 +64,10 @@
   $("div.photo-list").on("taphold", function(e) {
     $(this).hide();
   });
+  
+  $(window).on("orientationchange", function(){
+	alert("方向已经改变");  
+  });
 </script>
 
 </html>

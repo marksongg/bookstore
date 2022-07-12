@@ -1,0 +1,38 @@
+@charset "utf-8";
+* {
+  margin: 0px;
+  padding: 0px;	
+}
+
+body {
+  font-family:微软雅黑;
+  font-size: 14px;
+  line-height: 30px;
+  color: #FFF;
+  background-color: #ddf5ff;
+  background-image: url(../../../../assets/images13/134401.jpg);
+  background-repeat:no-repeat;
+  background-position: right 120px;	
+}
+
+#box {
+	width: 600px;
+	height: 100%;
+	overflow: hidden;
+	margin:50px 0px 0px 50px;
+}
+
+#Accordion1 div {
+    margin: 0px;
+	padding: 0px;
+	background-color: #00AAA7;
+	border: 0px;	
+}
+
+#Accordion1 div p {
+	height: auto;
+	overflow: hidden;
+	background-color: #00AAA7;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
