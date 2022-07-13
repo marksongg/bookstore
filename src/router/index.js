@@ -751,6 +751,14 @@ const routes = [
       title: 'musicMain'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery14/MainComp.vue')
+  },
+  {
+    path: '/bottomComp',
+    name: 'bottomComp',
+    meta: {
+      title: 'musicBottom'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery14/BottomComp.vue')
   }
 ]
 

@@ -53,6 +53,11 @@
           <br>
         </div>
       </div>
+
+      <div id="jinru01"><img src="@/assets/images14/14118.png"></div>
+      <div id="jinru02"><img src="@/assets/images14/14118.png"></div>
+      <div id="jinru03"><img src="@/assets/images14/14118.png"></div>
+
       <div id="right">
         <div id="xuanxiang">
           <br>
@@ -209,6 +214,33 @@ export default {
     text-align: left;
   }
 
+  #jinru01 {
+    width: 102px;
+    height: 26px;
+    float: inherit;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 662px;
+  }
+
+  #jinru02 {
+    width: 102px;
+    height: 26px;
+    float: inherit;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 662px;
+  }
+
+  #jinru03 {
+    width: 102px;
+    height: 26px;
+    float: inherit;
+    position: absolute;
+    margin-top: 465px;
+    margin-left: 662px;
+  }
+
   #right {
     width: 100px;
     height: 300px;
@@ -252,12 +284,12 @@ export default {
   }
 
   .btn {
-    display: inline-block;
+    display: inline-block; /**在同一行 */
     margin-left: 134px;
   }
 
   #search-bar ul li {
-    display: inline-block;
+    display: inline-block;/**在同一行 */
     width: 18px;
   }
 
