@@ -73,7 +73,7 @@ export default {
       count: 0
     }
   },
-  name:'TopComp',
+  name:'CenterComp',
 }
 </script>
 

@@ -243,6 +243,9 @@
       <li>
           <router-link to="/centerComp"><h3>第14章: 14.2 音乐类网站-中部组件(centerComp)</h3></router-link>
       </li>
+      <li>
+          <router-link to="/mainComp"><h3>第14章: 14.2 音乐类网站-主体组件(mainComp)</h3></router-link>
+      </li>
   </div>
 </template>
 
