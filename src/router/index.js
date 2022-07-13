@@ -727,6 +727,14 @@ const routes = [
       title: 'jQuery事件'
     },
     component: ()=> import('../components/divCssJQuery/divCssJQuery12/DivCssJQuery12_2_5.vue')
+  },
+  {
+    path: '/topComp',
+    name: 'topComp',
+    meta: {
+      title: 'musicTop'
+    },
+    component: ()=> import('../components/divCssJQuery/divCssJQuery14/TopComp.vue')
   }
 ]
 

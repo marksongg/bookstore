@@ -237,6 +237,9 @@
       <li>
           <router-link to="/divCssJQuery12_2_5"><h3>第12章: 12.2.5 jQuery事件</h3></router-link>
       </li>
+      <li>
+          <router-link to="/topComp"><h3>第14章: 14.1 音乐类网站-顶部组件(top)</h3></router-link>
+      </li>
   </div>
 </template>
 
