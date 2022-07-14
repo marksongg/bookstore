@@ -141,7 +141,7 @@ export default {
   #list01 {
     width: 170px;
     height: 180px;
-    margin-top: 30px;/**这里需要特别设置list01的高度 */
+    margin-top: 26px;/**这里需要特别设置list01的高度 */
     float: left;
   }
 

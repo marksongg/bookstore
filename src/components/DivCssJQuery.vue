@@ -249,6 +249,9 @@
       <li>
           <router-link to="/bottomComp"><h3>第14章: 14.4 音乐类网站-底部组件(bottomComp)</h3></router-link>
       </li>
+      <li>
+          <router-link to="/divCssJQuery14_1"><h3>第14章: 14.5 音乐类网站(Div+CSS+jQuery布局-结业终章)</h3></router-link>
+      </li>
   </div>
 </template>
 

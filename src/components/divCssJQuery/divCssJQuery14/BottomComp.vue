@@ -11,7 +11,7 @@
           <li>网站留言</li>
           <li>合作伙伴</li>
         </ul>
-        <br><br>创建日期（C）2005-2022 MarkMusic.com<br>
+        <br><br><br>创建日期（C）2005-2022 MarkMusic.com<br>
       </div>
     </div>
   </div>
@@ -56,13 +56,14 @@ export default {
     height: 27px;
     margin: 35px auto 0px auto;
     padding-top: 20px;
+    text-align: center;
   }
 
   #list li {
     float: left;
     color: #F4F4F4;
     list-style-type: none;
-    width: 70px;
+    width: 60px;
     text-align: center;
   }
 
