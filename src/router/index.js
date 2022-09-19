@@ -48,6 +48,7 @@ const routes = [
     component: ()=> import('../components/BooksNew.vue')
   },
   {
+    // 动态路由传参数
     path: '/book/:id',
     name: 'book',
     meta: {
